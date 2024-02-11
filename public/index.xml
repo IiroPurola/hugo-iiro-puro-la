@@ -1,61 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title></title>
-    <link>http://gohugo.io/</link>
-    <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://gohugo.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Personal Curriculum Vitae and Portfolio Website with Hugo and Tailwind CSS</title>
-      <link>http://gohugo.io/portfiolio/personal-curriculum-vitae-and-portfolio-website-with-hugo-and-tailwind-css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://gohugo.io/portfiolio/personal-curriculum-vitae-and-portfolio-website-with-hugo-and-tailwind-css/</guid>
-      <description>Overview: The project was an undertaking to design and create a personal Curriculum Vitae and portfolio website utilizing the Hugo static site generator and Tailwind CSS. This initiative aimed to master Hugo and Tailwind CSS, with a special emphasis on learning AI Prompt Engineering, which was heavily used during the site&amp;rsquo;s development.
-Challenge: The objective was to gain expertise in Hugo, Tailwind CSS, and AI Prompt Engineering while creating a professional, well-structured, and visually appealing portfolio website.</description>
-    </item>
-    
-    <item>
-      <title>Tailored AVD Desktops and Jump Environments for Specific User Groups</title>
-      <link>http://gohugo.io/portfiolio/tailored-avd-desktops-and-jump-environments-for-specific-user-groups/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://gohugo.io/portfiolio/tailored-avd-desktops-and-jump-environments-for-specific-user-groups/</guid>
-      <description>Overview: The client requested a design and implementation of Azure Virtual Desktop (AVD) environments that cater to three distinct user groups in their organization. The project involved the creation of three separate workloads: a custom customer service desktop, and two versions of the Jump environment, each serving unique user requirements and access privileges.
-Challenge: The project presented a multifaceted challenge. The client required a custom customer service desktop equipped with specific software, and two versions of Jump environments – one displaying selected portals via a browser, and another solely designed for Remote Desktop Protocol (RDP) associations.</description>
-    </item>
-    
-    <item>
-      <title>Transition to Serverless IT Infrastructure with Azure AD and Intune</title>
-      <link>http://gohugo.io/portfiolio/transition-to-serverless-it-infrastructure-with-azure-ad-and-intune/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://gohugo.io/portfiolio/transition-to-serverless-it-infrastructure-with-azure-ad-and-intune/</guid>
-      <description>Overview: This project revolved around modernizing a company&amp;rsquo;s IT infrastructure by migrating it to a serverless model. The endeavor involved replacing the traditional on-premises Active Directory with Azure Active Directory and introducing Microsoft Intune for robust device management. The project also encompassed a shift from the conventional print server to Printix, along with strengthening the security and backup system of the Microsoft cloud environment and emails.
-Challenge: The company previously lacked a comprehensive device management system and had an outdated on-premises Active Directory.</description>
-    </item>
-    
-    <item>
-      <title>Website Development for a Transport Company</title>
-      <link>http://gohugo.io/portfiolio/website-development-for-a-transport-company/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://gohugo.io/portfiolio/website-development-for-a-transport-company/</guid>
-      <description>Overview: The project involved the creation of two distinct websites for a transport company. The first website, aimed at customers, would provide information about the company&amp;rsquo;s services, while the second, an intranet site, would serve as a secure platform for entrepreneurs in the transport industry to access exclusive content. The project was independently planned and implemented using WordPress and hosted on a Finnish service provider.
-Challenge: The client needed both websites to be fast, user-friendly, visually appealing, and easily editable.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>http://gohugo.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://gohugo.io/about/</guid>
-      <description>Broad-ranging Experience in IT and Marketing Throughout my career, I&amp;rsquo;ve held various roles that have allowed me to develop a diverse skill set.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>/</link><description>Recent content on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Personal Curriculum Vitae and Portfolio Website with Hugo and Tailwind CSS</title><link>/portfiolio/personal-curriculum-vitae-and-portfolio-website-with-hugo-and-tailwind-css/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/portfiolio/personal-curriculum-vitae-and-portfolio-website-with-hugo-and-tailwind-css/</guid><description>Overview: The project was an undertaking to design and create a personal Curriculum Vitae and portfolio website utilizing the Hugo static site generator and Tailwind CSS. This initiative aimed to master Hugo and Tailwind CSS, with a special emphasis on learning AI Prompt Engineering, which was heavily used during the site&amp;rsquo;s development.
+Challenge: The objective was to gain expertise in Hugo, Tailwind CSS, and AI Prompt Engineering while creating a professional, well-structured, and visually appealing portfolio website.</description></item><item><title>Tailored AVD Desktops and Jump Environments for Specific User Groups</title><link>/portfiolio/tailored-avd-desktops-and-jump-environments-for-specific-user-groups/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/portfiolio/tailored-avd-desktops-and-jump-environments-for-specific-user-groups/</guid><description>Overview: The client requested a design and implementation of Azure Virtual Desktop (AVD) environments that cater to three distinct user groups in their organization. The project involved the creation of three separate workloads: a custom customer service desktop, and two versions of the Jump environment, each serving unique user requirements and access privileges.
+Challenge: The project presented a multifaceted challenge. The client required a custom customer service desktop equipped with specific software, and two versions of Jump environments – one displaying selected portals via a browser, and another solely designed for Remote Desktop Protocol (RDP) associations.</description></item><item><title>Transition to Serverless IT Infrastructure with Azure AD and Intune</title><link>/portfiolio/transition-to-serverless-it-infrastructure-with-azure-ad-and-intune/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/portfiolio/transition-to-serverless-it-infrastructure-with-azure-ad-and-intune/</guid><description>Overview: This project revolved around modernizing a company&amp;rsquo;s IT infrastructure by migrating it to a serverless model. The endeavor involved replacing the traditional on-premises Active Directory with Azure Active Directory and introducing Microsoft Intune for robust device management. The project also encompassed a shift from the conventional print server to Printix, along with strengthening the security and backup system of the Microsoft cloud environment and emails.
+Challenge: The company previously lacked a comprehensive device management system and had an outdated on-premises Active Directory.</description></item><item><title>Website Development for a Transport Company</title><link>/portfiolio/website-development-for-a-transport-company/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/portfiolio/website-development-for-a-transport-company/</guid><description>Overview: The project involved the creation of two distinct websites for a transport company. The first website, aimed at customers, would provide information about the company&amp;rsquo;s services, while the second, an intranet site, would serve as a secure platform for entrepreneurs in the transport industry to access exclusive content. The project was independently planned and implemented using WordPress and hosted on a Finnish service provider.
+Challenge: The client needed both websites to be fast, user-friendly, visually appealing, and easily editable.</description></item><item><title>About Me</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>Broad-ranging Experience in IT and Marketing Throughout my career, I&amp;rsquo;ve held various roles that have allowed me to develop a diverse skill set.
 As an IT specialist, I&amp;rsquo;ve provided local support and managed both local and virtual servers. I&amp;rsquo;ve developed proficiency in Azure AD, Azure VMs, Azure Blob Storage, and Microsoft 365 administration. I&amp;rsquo;ve also gained experience in frontend web development, focusing on enhancing client environments.
-Beyond technical roles, I&amp;rsquo;ve engaged in project management, where I oversaw the entire lifecycle of various IT hardware, from sales to disposal.</description>
-    </item>
-    
-  </channel>
-</rss>
+Beyond technical roles, I&amp;rsquo;ve engaged in project management, where I oversaw the entire lifecycle of various IT hardware, from sales to disposal.</description></item></channel></rss>

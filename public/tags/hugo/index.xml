@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hugo on </title>
-    <link>http://gohugo.io/tags/hugo/</link>
-    <description>Recent content in Hugo on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://gohugo.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Personal Curriculum Vitae and Portfolio Website with Hugo and Tailwind CSS</title>
-      <link>http://gohugo.io/portfiolio/personal-curriculum-vitae-and-portfolio-website-with-hugo-and-tailwind-css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://gohugo.io/portfiolio/personal-curriculum-vitae-and-portfolio-website-with-hugo-and-tailwind-css/</guid>
-      <description>Overview: The project was an undertaking to design and create a personal Curriculum Vitae and portfolio website utilizing the Hugo static site generator and Tailwind CSS. This initiative aimed to master Hugo and Tailwind CSS, with a special emphasis on learning AI Prompt Engineering, which was heavily used during the site&amp;rsquo;s development.
-Challenge: The objective was to gain expertise in Hugo, Tailwind CSS, and AI Prompt Engineering while creating a professional, well-structured, and visually appealing portfolio website.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on</title><link>/tags/hugo/</link><description>Recent content in Hugo on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Personal Curriculum Vitae and Portfolio Website with Hugo and Tailwind CSS</title><link>/portfiolio/personal-curriculum-vitae-and-portfolio-website-with-hugo-and-tailwind-css/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/portfiolio/personal-curriculum-vitae-and-portfolio-website-with-hugo-and-tailwind-css/</guid><description>Overview: The project was an undertaking to design and create a personal Curriculum Vitae and portfolio website utilizing the Hugo static site generator and Tailwind CSS. This initiative aimed to master Hugo and Tailwind CSS, with a special emphasis on learning AI Prompt Engineering, which was heavily used during the site&amp;rsquo;s development.
+Challenge: The objective was to gain expertise in Hugo, Tailwind CSS, and AI Prompt Engineering while creating a professional, well-structured, and visually appealing portfolio website.</description></item></channel></rss>

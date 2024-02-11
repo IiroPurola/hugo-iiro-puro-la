@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    <title>
+        {{ i18n "home" }} | {{ .Site.Params.author.name }}
+    </title>
+
+    {{ partial "head.html" . }}
+
+</head>
+
+<body>
+    <style>
+        body  {
+            background-image: url('bg_mac.jpg');
+            background-size: cover; /* Cover the entire element */
+            background-repeat: no-repeat; /* Do not repeat the image */
+            background-position: center; /* Center the background image */
+        }
+    </style>
+
+    <div class="flexWrapper bodyBg">
+        {{ partial "header.html" . }}
+
+        <div class="content vertical">
+            <main class="main">
+                <div class="indexWrapper">
+                    <div>
+                        <img width="100px" src="logo_IP_original.svg"></img>
+                        <h1 class="indexHeader">{{ .Site.Params.author.name }}</h1>
+                        <p class="indexDescription">{{ .Site.Params.author.description }}</p>
+                        <p class="indexFreeText typewriter">{{ .Site.Params.author.freetext }}</p>
+                    </div>
+                    {{ if isset .Site.Params "social" }}
+                        {{ partial "social.html" . }}
+                    {{ end }}
+                </div>
+            </main>
+        </div>
+
+        {{ partial "footer.html" . }}
+    </div>
+
+</body>
+
+</html>

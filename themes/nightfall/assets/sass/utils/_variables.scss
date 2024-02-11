@@ -1,0 +1,85 @@
+// Colors
+$darkGrey: #323232;
+$white: #f8f8ff;
+$black: #2f2f2f;
+$blue: #3366cc;
+
+$backgroundDarker: #252627;
+$backgroundDark: #292a2d;
+
+//Fonts
+$fontHeader: 'Fira Mono', monospace;
+$fontParagraph: 'Open Sans', sans-serif;
+$fontCode: 'Fira Mono', monospace;
+
+// Content
+$breakLarge: 992px;
+$width: 760px;
+
+// Own
+$royal-blue-dark: #0a2463ff;
+$tufts-blue: #3e92ccff;
+$carrot-orange: #f49d37ff;
+$cerise: #d8315bff;
+$black-chocolate: #1e1b18ff;
+
+// Own Shades
+// Cerise to dark
+$cerise-d-10: #c22c52;
+$cerise-d-20: #ad2749;
+$cerise-d-30: #972240;
+$cerise-d-40: #821d37;
+$cerise-d-50: #6c192e;
+$cerise-d-60: #561424;
+$cerise-d-70: #410f1b;
+$cerise-d-80: #2b0a12;
+$cerise-d-90: #160509;
+$cerise-d-100: #000000;
+								
+// Cerise to white
+$cerise-w-10: #dc466b;
+$cerise-w-20: #e05a7c;
+$cerise-w-30: #e46f8c;
+$cerise-w-40: #e8839d;
+$cerise-w-50: #ec98ad;
+$cerise-w-60: #efadbd;
+$cerise-w-70: #f3c1ce;
+$cerise-w-80: #f7d6de;
+$cerise-w-90: #fbeaef;
+$cerise-w-100: #ffffff;
+
+// Own Shades
+// carrot-orange to dark
+$carrot-orange-d-10: #dc8d32;
+$carrot-orange-d-20: #c37e2c;
+$carrot-orange-d-30: #ab6e27;
+$carrot-orange-d-40: #925e21;
+$carrot-orange-d-50: #7a4f1c;
+$carrot-orange-d-60: #623f16;
+$carrot-orange-d-70: #492f10;
+$carrot-orange-d-80: #311f0b;
+$carrot-orange-d-90: #181005;
+$carrot-orange-d-100: #000000;
+
+// carrot-orange to white
+$carrot-orange-w-10: #f5a74b;
+$carrot-orange-w-20: #f6b15f;
+$carrot-orange-w-30: #f7ba73;
+$carrot-orange-w-40: #f8c487;
+$carrot-orange-w-50: #face9b;
+$carrot-orange-w-60: #fbd8af;
+$carrot-orange-w-70: #fce2c3;
+$carrot-orange-w-80: #fdebd7;
+$carrot-orange-w-90: #fef5eb;
+$carrot-orange-w-100: #ffffff;
+
+// Own gradiants
+$gradient-top: linear-gradient(0deg, #0a2463ff, #3e92ccff, #f49d37ff, #d8315bff, #1e1b18ff);
+$gradient-right: linear-gradient(90deg, #0a2463ff, #3e92ccff, #f49d37ff, #d8315bff, #1e1b18ff);
+$gradient-bottom: linear-gradient(180deg, #0a2463ff, #3e92ccff, #f49d37ff, #d8315bff, #1e1b18ff);
+$gradient-left: linear-gradient(270deg, #0a2463ff, #3e92ccff, #f49d37ff, #d8315bff, #1e1b18ff);
+$gradient-top-right: linear-gradient(45deg, #0a2463ff, #3e92ccff, #f49d37ff, #d8315bff, #1e1b18ff);
+$gradient-bottom-right: linear-gradient(135deg, #0a2463ff, #3e92ccff, #f49d37ff, #d8315bff, #1e1b18ff);
+$gradient-top-left: linear-gradient(225deg, #0a2463ff, #3e92ccff, #f49d37ff, #d8315bff, #1e1b18ff);
+$gradient-bottom-left: linear-gradient(315deg, #0a2463ff, #3e92ccff, #f49d37ff, #d8315bff, #1e1b18ff);
+$gradient-radial: radial-gradient(#0a2463ff, #3e92ccff, #f49d37ff, #d8315bff, #1e1b18ff);
