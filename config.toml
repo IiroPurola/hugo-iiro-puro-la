@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-theme = "nightfall"
+theme = "nightfall_ip"
 favicon = true
 
 [menu]
