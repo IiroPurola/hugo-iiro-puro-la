@@ -1,13 +1,13 @@
 ---
 title: "Website Development for a Transport Company"
 weight: 4
-img: "/portfiolio/img/article_header_wordpress.jpg"
+img: "/portfiolio/img/wordpress.jpg"
 slug: "website-development-for-a-transport-company"
 tags: ["WordPress", "Web Development"]
 tech:
   - "Wordpress"
 ---
-![Website](/portfiolio/img/article_header_wordpress.jpg)
+![Website](/portfiolio/img/wordpress.jpg)
 ## Overview:
 
 The project involved the creation of two distinct websites for a transport company. The first website, aimed at customers, would provide information about the company's services, while the second, an intranet site, would serve as a secure platform for entrepreneurs in the transport industry to access exclusive content. The project was independently planned and implemented using WordPress and hosted on a Finnish service provider.

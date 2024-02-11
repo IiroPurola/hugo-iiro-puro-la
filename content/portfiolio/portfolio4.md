@@ -1,7 +1,7 @@
 ---
 title: "Transition to Serverless IT Infrastructure with Azure AD and Intune"
 weight: 3
-img: "/portfiolio/img/article_header_serverless.jpg"
+img: "/portfiolio/img/serverles_it_infra.jpg"
 slug: "transition-to-serverless-it-infrastructure-with-azure-ad-and-intune"
 tags: ["Azure", "Azure Active Directory", "Azure AD", "Intune", "Printix"]
 tech:
@@ -10,7 +10,7 @@ tech:
   - "Intune"
   - "Printix"
 ---
-![Website](/portfiolio/img/article_header_serverless.jpg)
+![Website](/portfiolio/img/serverles_it_infra.jpg)
 ## Overview:
 
 This project revolved around modernizing a company's IT infrastructure by migrating it to a serverless model. The endeavor involved replacing the traditional on-premises Active Directory with Azure Active Directory and introducing Microsoft Intune for robust device management. The project also encompassed a shift from the conventional print server to Printix, along with strengthening the security and backup system of the Microsoft cloud environment and emails.
