@@ -1,0 +1,45 @@
+baseURL = 'http://gohugo.io/'
+languageCode = 'en-us'
+theme = "nightfall"
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "blog"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+user = "iiro"
+hostname = "puro.la"
+  [params.author]
+    name = "Iiro Purola"  # Website and RSS feed author
+    description = "Cloud Engineer at Cloud2 Oy"
+    email = "email@example.com"  # RSS feed email address
+
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/IiroPurola"
+
+[[params.social]]
+key = 1
+name = "instagram"
+url = "https://www.instagram.com/iiro.purola/"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/in/iiropurola/"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:iiro@puro.la"
