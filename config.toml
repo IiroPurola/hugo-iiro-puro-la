@@ -1,12 +1,13 @@
-baseURL = 'http://gohugo.io/'
+baseURL = '/'
 languageCode = 'en-us'
 theme = "nightfall"
+favicon = true
 
 [menu]
   [[menu.header]]
-    name = "blog"
+    name = "portfolio"
     weight = 0
-    url = "blog"
+    url = "portfiolio"
   [[menu.header]]
     name = "about"
     weight = 1
@@ -23,7 +24,7 @@ hostname = "puro.la"
 
 
 readingTime = true  # Show reading time on post page
-published = true  # Show published data on post page
+published = false  # Show published data on post page
 
 [[params.social]]
 key = 0
