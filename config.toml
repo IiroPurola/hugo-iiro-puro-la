@@ -17,7 +17,7 @@ user = "iiro"
 hostname = "puro.la"
   [params.author]
     name = "Iiro Purola"  # Website and RSS feed author
-    description = "Cloud Engineer at Cloud2 Oy"
+    description = "an Cloud engineer at Cloud2 Oy"
     email = "email@example.com"  # RSS feed email address
 
 
@@ -28,18 +28,22 @@ published = true  # Show published data on post page
 key = 0
 name = "github"
 url = "https://github.com/IiroPurola"
+icon = "fa-brands fa-github"
 
 [[params.social]]
 key = 1
 name = "instagram"
 url = "https://www.instagram.com/iiro.purola/"
+icon = "fa-brands fa-instagram"
 
 [[params.social]]
 key = 2
 name = "linkedin"
 url = "https://www.linkedin.com/in/iiropurola/"
+icon = "fa-brands fa-linkedin"
 
 [[params.social]]
 key = 3
 name = "email"
 url = "mailto:iiro@puro.la"
+icon = "fa-solid fa-envelope"
