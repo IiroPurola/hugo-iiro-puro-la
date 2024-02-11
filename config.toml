@@ -18,7 +18,7 @@ user = "iiro"
 hostname = "puro.la"
   [params.author]
     name = "Iiro Purola"  # Website and RSS feed author
-    description = "an Cloud engineer at Cloud2 Oy."
+    description = "a Cloud engineer at Cloud2 Oy."
     freetext = "I thrive in the cloud computing landscape, driven by a deep passion for innovative cloud technologies and solutions."
     email = "email@example.com"  # RSS feed email address
 
