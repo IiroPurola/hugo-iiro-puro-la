@@ -1,14 +1,14 @@
 ---
 title: "Tailored AVD Desktops and Jump Environments for Specific User Groups"
 weight: 2
-img: "/portfiolio/img/azure_virtual_desktop.jpg"
+img: "/portfiolio/img/portfolio_azure_virtual_desktop.webp"
 slug: "tailored-avd-desktops-and-jump-environments-for-specific-user-groups"
 tags: ["Azure", "Azure Virtual Desktop", "AVD"]
 tech:
   - "Azure"
   - "Azure Virtual Desktop (AVD)"
 ---
-![Website](/portfiolio/img/azure_virtual_desktop.jpg)
+![Website](/portfiolio/img/portfolio_azure_virtual_desktop.webp)
 ## Overview:
 
 The client requested a design and implementation of Azure Virtual Desktop (AVD) environments that cater to three distinct user groups in their organization. The project involved the creation of three separate workloads: a custom customer service desktop, and two versions of the Jump environment, each serving unique user requirements and access privileges.

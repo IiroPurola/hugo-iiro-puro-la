@@ -5,7 +5,7 @@ author = "Iiro Purola"
 img = "iiro_purola.jpg"
 +++
 
-![IiroPurola](/img/iiro_purola.jpg)
+![IiroPurola](/img/iiro_purola.webp)
 ## Broad-ranging Experience in IT and Marketing
 
 Throughout my career, I've held various roles that have allowed me to develop a diverse skill set.
