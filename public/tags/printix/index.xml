@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Printix on</title><link>/tags/printix/</link><description>Recent content in Printix on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/tags/printix/index.xml" rel="self" type="application/rss+xml"/><item><title>Transition to Serverless IT Infrastructure with Azure AD and Intune</title><link>/portfiolio/transition-to-serverless-it-infrastructure-with-azure-ad-and-intune/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/portfiolio/transition-to-serverless-it-infrastructure-with-azure-ad-and-intune/</guid><description>Overview: This project revolved around modernizing a company&amp;rsquo;s IT infrastructure by migrating it to a serverless model. The endeavor involved replacing the traditional on-premises Active Directory with Azure Active Directory and introducing Microsoft Intune for robust device management. The project also encompassed a shift from the conventional print server to Printix, along with strengthening the security and backup system of the Microsoft cloud environment and emails.
-Challenge: The company previously lacked a comprehensive device management system and had an outdated on-premises Active Directory.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Printix on </title>
+    <link>//localhost:1313/tags/printix/</link>
+    <description>Recent content in Printix on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>email@example.com (Iiro Purola)</managingEditor>
+    <webMaster>email@example.com (Iiro Purola)</webMaster>
+    <atom:link href="//localhost:1313/tags/printix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transition to Serverless IT Infrastructure with Azure AD and Intune</title>
+      <link>//localhost:1313/portfiolio/transition-to-serverless-it-infrastructure-with-azure-ad-and-intune/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/portfiolio/transition-to-serverless-it-infrastructure-with-azure-ad-and-intune/</guid>
+      <description>Overview: This project revolved around modernizing a company&amp;rsquo;s IT infrastructure by migrating it to a serverless model. The endeavor involved replacing the traditional on-premises Active Directory with Azure Active Directory and introducing Microsoft Intune for robust device management. The project also encompassed a shift from the conventional print server to Printix, along with strengthening the security and backup system of the Microsoft cloud environment and emails.&#xA;Challenge: The company previously lacked a comprehensive device management system and had an outdated on-premises Active Directory.</description>
+    </item>
+  </channel>
+</rss>

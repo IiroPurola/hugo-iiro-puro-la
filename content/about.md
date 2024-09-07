@@ -34,15 +34,13 @@ I am an experienced cloud engineer with a solid background in Azure and a fundam
 
 My career showcases a blend of technical support, server management, and web development, with a strong emphasis on cloud technologies. 
  
-I excel in Azure Virtual Desktop (AVD) implementations and am keenly interested in applying Artificial Intelligence (AI) to enhance operational efficiencies and introduce innovative solutions to customers. My skill set includes managing cloud services, implementing security measures such as Multi-Factor Authentication (MFA), conducting Azure AD deployments, and managing cloud migrations. I am passionate about assisting organizations in their transition to serverless architectures and proficient in managing endpoints across platforms with Intune.
+ My skill set includes managing cloud services, implementing security measures such as Multi-Factor Authentication (MFA), conducting Azure AD deployments, and managing cloud migrations. I am passionate about assisting organizations in their transition to serverless architectures and proficient in managing endpoints across platforms with Intune.
 
 ### Certifications
 
-- Azure Fundamentals (AZ-104)
+- [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/IiroPurola/B5C6BDCAFCA8332?sharingId=E3C062942F73265F)
 
-- Azure Windows Virtual Desktop Specialty (AZ-140)
-
-[![Azure Windows Virtual Desktop Specialty](/img/microsoft-certified-azure-virtual-desktop-specialty_200x200.webp)](https://www.credly.com/badges/da175fe2-30de-4220-812e-8c7d25f74921/public_url)
+- [Microsoft Certified: Azure Virtual Desktop Specialty](https://learn.microsoft.com/api/credentials/share/en-us/IiroPurola/A2693DB0C616C3F8?sharingId=E3C062942F73265F)
 
 - AWS Certified Solutions Architect - Associate
 
