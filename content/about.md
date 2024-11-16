@@ -16,8 +16,6 @@ I have a foundational understanding of AWS, as evidenced by the AWS SAA-03 certi
 
 My technical expertise also includes Infrastructure as Code (IaC) with tools like Git, Azure DevOps, PowerShell, and Terraform. This experience is vital for automating and optimizing infrastructure deployment and management.
 
-I am particularly interested in the potential of AI to improve job efficiency and effectiveness. My experience with AI tools like ChatGPT and GitHub Copilot has opened my eyes to the immense possibilities of AI in streamlining workflows and enhancing project development. I am enthusiastic about exploring and bringing AI opportunities to the customers I work with, aiming to leverage AI to provide innovative solutions and added value.
-
 My role in marketing has seen me engage in graphic design, photography, and web development, primarily on WordPress. These creative skills complement my technical abilities, allowing me to approach IT projects with a unique perspective focused on user experience.
 
 Early career experiences in administration and media assistance have sharpened my organizational skills and business process understanding, which are crucial in effective project management.
@@ -72,6 +70,8 @@ My career showcases a blend of technical support, server management, and web dev
 
 - Effective in delivering corporate training, empowering teams with the knowledge and skills to excel in their roles.
 - Strong project management capabilities, with a track record of leading projects from inception to successful completion.
+
+---
 
 ## Work Experience
 

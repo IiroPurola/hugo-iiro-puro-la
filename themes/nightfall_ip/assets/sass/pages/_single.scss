@@ -2,18 +2,18 @@
 
 .postWrapper {
     text-align: left;
-    padding: 20px;    
+    padding: 1.25rem;    
 }
 
 .postMetadata {
     font-family: $fontCode;
     display: block;
     background: $backgroundDarker;
-    padding: 10px;
+    padding: 0.625rem;
 }
 
 dt, dd {
-    line-height: 1.5;
+    line-height: 150%;
 }
 
 dl {

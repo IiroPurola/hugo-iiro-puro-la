@@ -42,6 +42,10 @@ h6 {
   color: $carrot-orange-w-50;
 }
 
+hr {
+  margin: 4rem;
+  border: 1px dotted $royal-blue-dark;
+}
 
 pre code {
   font-family: $fontCode;

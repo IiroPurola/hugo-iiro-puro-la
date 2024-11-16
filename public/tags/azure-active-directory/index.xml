@@ -1,5 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Azure Active Directory on</title><link>https://iiro.puro.la/tags/azure-active-directory/</link><description>Recent content in Azure Active Directory on</description><generator>Hugo</generator><language>en-us</language><managingEditor>email@example.com (Iiro Purola)</managingEditor><webMaster>email@example.com (Iiro Purola)</webMaster><atom:link href="https://iiro.puro.la/tags/azure-active-directory/index.xml" rel="self" type="application/rss+xml"/><item><title>Transition to Serverless IT Infrastructure with Azure AD and Intune</title><link>https://iiro.puro.la/portfiolio/transition-to-serverless-it-infrastructure-with-azure-ad-and-intune/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/portfiolio/transition-to-serverless-it-infrastructure-with-azure-ad-and-intune/</guid><description>&lt;p>&lt;img src="https://iiro.puro.la/portfiolio/img/portfolio_serverles_it_infra.webp" alt="Website">&lt;/p>
-&lt;h2 id="overview">Overview:&lt;/h2>
-&lt;p>This project revolved around modernizing a company&amp;rsquo;s IT infrastructure by migrating it to a serverless model. The endeavor involved replacing the traditional on-premises Active Directory with Azure Active Directory and introducing Microsoft Intune for robust device management. The project also encompassed a shift from the conventional print server to Printix, along with strengthening the security and backup system of the Microsoft cloud environment and emails.&lt;/p>
-&lt;h2 id="challenge">Challenge:&lt;/h2>
-&lt;p>The company previously lacked a comprehensive device management system and had an outdated on-premises Active Directory. The challenge was to transition the entire IT infrastructure to a more scalable and modern framework without compromising security or user experience.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Active Directory on </title>
+    <link>//localhost:1313/tags/azure-active-directory/</link>
+    <description>Recent content in Azure Active Directory on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>email@example.com (Iiro Purola)</managingEditor>
+    <webMaster>email@example.com (Iiro Purola)</webMaster>
+    <atom:link href="//localhost:1313/tags/azure-active-directory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transition to Serverless IT Infrastructure with Azure AD and Intune</title>
+      <link>//localhost:1313/portfiolio/transition-to-serverless-it-infrastructure-with-azure-ad-and-intune/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/portfiolio/transition-to-serverless-it-infrastructure-with-azure-ad-and-intune/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/portfiolio/img/portfolio_serverles_it_infra.webp&#34; alt=&#34;Website&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview:&lt;/h2&gt;&#xA;&lt;p&gt;This project revolved around modernizing a company&amp;rsquo;s IT infrastructure by migrating it to a serverless model. The endeavor involved replacing the traditional on-premises Active Directory with Azure Active Directory and introducing Microsoft Intune for robust device management. The project also encompassed a shift from the conventional print server to Printix, along with strengthening the security and backup system of the Microsoft cloud environment and emails.&lt;/p&gt;&#xA;&lt;h2 id=&#34;challenge&#34;&gt;Challenge:&lt;/h2&gt;&#xA;&lt;p&gt;The company previously lacked a comprehensive device management system and had an outdated on-premises Active Directory. The challenge was to transition the entire IT infrastructure to a more scalable and modern framework without compromising security or user experience.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

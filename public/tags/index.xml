@@ -1,1 +1,104 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on</title><link>https://iiro.puro.la/tags/</link><description>Recent content in Tags on</description><generator>Hugo</generator><language>en-us</language><managingEditor>email@example.com (Iiro Purola)</managingEditor><webMaster>email@example.com (Iiro Purola)</webMaster><atom:link href="https://iiro.puro.la/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Prompt Engineering</title><link>https://iiro.puro.la/tags/ai-prompt-engineering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/ai-prompt-engineering/</guid><description/></item><item><title>AVD</title><link>https://iiro.puro.la/tags/avd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/avd/</guid><description/></item><item><title>Azure</title><link>https://iiro.puro.la/tags/azure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/azure/</guid><description/></item><item><title>Azure Active Directory</title><link>https://iiro.puro.la/tags/azure-active-directory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/azure-active-directory/</guid><description/></item><item><title>Azure AD</title><link>https://iiro.puro.la/tags/azure-ad/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/azure-ad/</guid><description/></item><item><title>Azure Virtual Desktop</title><link>https://iiro.puro.la/tags/azure-virtual-desktop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/azure-virtual-desktop/</guid><description/></item><item><title>Hugo</title><link>https://iiro.puro.la/tags/hugo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/hugo/</guid><description/></item><item><title>Index</title><link>https://iiro.puro.la/tags/index/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/index/</guid><description/></item><item><title>Intune</title><link>https://iiro.puro.la/tags/intune/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/intune/</guid><description/></item><item><title>Printix</title><link>https://iiro.puro.la/tags/printix/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/printix/</guid><description/></item><item><title>Tailwind CSS</title><link>https://iiro.puro.la/tags/tailwind-css/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/tailwind-css/</guid><description/></item><item><title>Web Development</title><link>https://iiro.puro.la/tags/web-development/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/web-development/</guid><description/></item><item><title>WordPress</title><link>https://iiro.puro.la/tags/wordpress/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/tags/wordpress/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>email@example.com (Iiro Purola)</managingEditor>
+    <webMaster>email@example.com (Iiro Purola)</webMaster>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Prompt Engineering</title>
+      <link>//localhost:1313/tags/ai-prompt-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/ai-prompt-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AVD</title>
+      <link>//localhost:1313/tags/avd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/avd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure</title>
+      <link>//localhost:1313/tags/azure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/azure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure Active Directory</title>
+      <link>//localhost:1313/tags/azure-active-directory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/azure-active-directory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure AD</title>
+      <link>//localhost:1313/tags/azure-ad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/azure-ad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure Virtual Desktop</title>
+      <link>//localhost:1313/tags/azure-virtual-desktop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/azure-virtual-desktop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>//localhost:1313/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>//localhost:1313/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intune</title>
+      <link>//localhost:1313/tags/intune/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/intune/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Printix</title>
+      <link>//localhost:1313/tags/printix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/printix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tailwind CSS</title>
+      <link>//localhost:1313/tags/tailwind-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/tailwind-css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>//localhost:1313/tags/web-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WordPress</title>
+      <link>//localhost:1313/tags/wordpress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
+      <guid>//localhost:1313/tags/wordpress/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
