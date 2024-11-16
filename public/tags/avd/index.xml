@@ -1,20 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AVD on </title>
-    <link>//localhost:1313/tags/avd/</link>
-    <description>Recent content in AVD on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>email@example.com (Iiro Purola)</managingEditor>
-    <webMaster>email@example.com (Iiro Purola)</webMaster>
-    <atom:link href="//localhost:1313/tags/avd/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tailored AVD Desktops and Jump Environments for Specific User Groups</title>
-      <link>//localhost:1313/portfiolio/tailored-avd-desktops-and-jump-environments-for-specific-user-groups/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author>
-      <guid>//localhost:1313/portfiolio/tailored-avd-desktops-and-jump-environments-for-specific-user-groups/</guid>
-      <description>Overview: The client requested a design and implementation of Azure Virtual Desktop (AVD) environments that cater to three distinct user groups in their organization. The project involved the creation of three separate workloads: a custom customer service desktop, and two versions of the Jump environment, each serving unique user requirements and access privileges.&#xA;Challenge: The project presented a multifaceted challenge. The client required a custom customer service desktop equipped with specific software, and two versions of Jump environments – one displaying selected portals via a browser, and another solely designed for Remote Desktop Protocol (RDP) associations.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AVD on</title><link>https://iiro.puro.la/tags/avd/</link><description>Recent content in AVD on</description><generator>Hugo</generator><language>en-us</language><managingEditor>email@example.com (Iiro Purola)</managingEditor><webMaster>email@example.com (Iiro Purola)</webMaster><atom:link href="https://iiro.puro.la/tags/avd/index.xml" rel="self" type="application/rss+xml"/><item><title>Tailored AVD Desktops and Jump Environments for Specific User Groups</title><link>https://iiro.puro.la/portfiolio/tailored-avd-desktops-and-jump-environments-for-specific-user-groups/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>email@example.com (Iiro Purola)</author><guid>https://iiro.puro.la/portfiolio/tailored-avd-desktops-and-jump-environments-for-specific-user-groups/</guid><description>&lt;p>&lt;img src="https://iiro.puro.la/portfiolio/img/portfolio_azure_virtual_desktop.webp" alt="Website">&lt;/p>
+&lt;h2 id="overview">Overview:&lt;/h2>
+&lt;p>The client requested a design and implementation of Azure Virtual Desktop (AVD) environments that cater to three distinct user groups in their organization. The project involved the creation of three separate workloads: a custom customer service desktop, and two versions of the Jump environment, each serving unique user requirements and access privileges.&lt;/p>
+&lt;h2 id="challenge">Challenge:&lt;/h2>
+&lt;p>The project presented a multifaceted challenge. The client required a custom customer service desktop equipped with specific software, and two versions of Jump environments – one displaying selected portals via a browser, and another solely designed for Remote Desktop Protocol (RDP) associations. Each of these had to cater to different user groups, while maintaining high levels of operational efficiency and security.&lt;/p></description></item></channel></rss>

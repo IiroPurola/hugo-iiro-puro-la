@@ -5,7 +5,7 @@ author = "Iiro Purola"
 img = "iiro_purola.jpg"
 +++
 
-![IiroPurola](/img/iiro_purola.webp)
+<!-- ![IiroPurola](/img/iiro_purola.webp) -->
 ## Broad-ranging Experience in IT and Marketing
 
 With a background that bridges IT and marketing, my career journey has equipped me with a diverse skill set, heavily focused on Azure and AWS cloud technologies. My Azure expertise is underlined by certifications in AZ-104 and AZ-140, and I am experienced in managing a range of Azure services such as Azure Virtual Desktop, Azure Front Door, and Azure Virtual Machines. I'm proficient in both Windows and Linux environments, demonstrating my ability to navigate and manage diverse cloud infrastructures.
@@ -75,62 +75,44 @@ My career showcases a blend of technical support, server management, and web dev
 
 ## Work Experience
 
+### Cloud1 Oy, Infrastructure Engineer • November 2024 - Present
+
+- Design, implement, and optimize Azure cloud infrastructure solutions, focusing on automation, security, and governance.
+- Develop and maintain scalable network architectures, management frameworks, and monitoring solutions within Azure environments.
+- Enhance infrastructure efficiency using Azure DevOps, including CI/CD pipelines and Infrastructure as Code (IaC).
+- Collaborate with stakeholders to identify and implement cloud best practices, aligning solutions with business needs.
+
 ### Cloud2 Oy,
 
-#### Cloud Engineer - October 2023 - Present
+#### Cloud Engineer - October 2023 - November 2024
 
-As a Cloud Engineer, my role has evolved significantly from my previous position as a Cloud Operations Specialist, allowing me to deepen my expertise and take on more complex challenges in cloud infrastructure and management. Here's a summary of my key contributions and areas of expertise in this role:
-
-- **Azure Mastery**: Building upon my foundational knowledge, I've advanced my skills in Azure, demonstrated by my AZ-104 and AZ-140 certifications. My focus areas include Azure Virtual Desktop (AVD) for remote work solutions, Azure Front Door for optimizing web traffic management, and Azure Entra ID for secure identity and access management.
-
-- **Security and Compliance**: I've implemented Conditional Access policies to enhance security and compliance, ensuring the right balance between accessibility and protection across our cloud environments.
-
-- **Device Management**: My responsibilities have expanded to include the management of Mac devices with Intune, ensuring seamless integration and security across diverse operating systems.
-
-- **Automation and Efficiency**: I've leveraged Azure Logic Apps to automate workflows and processes, significantly improving operational efficiency and responsiveness to business needs.
-
-- **Performance Monitoring and Cost Management**: I've utilized Azure Monitor to keep a close eye on service performance and health, and I've been involved in budget management to ensure cost-effective cloud operations.
-
-- **Comprehensive Infrastructure Management**: My role encompasses the maintenance and administration of virtual machines (both Windows and Linux), managing Azure VMs, DNS configurations, and Azure Storage (including Blob and File storage), ensuring high availability, data integrity, and efficient storage solutions.
-
--  **Infrastructure as Code (IaC) Proficiency**: In my work, I regularly employ Infrastructure as Code (IaC) practices to streamline and automate cloud infrastructure management. My toolkit includes Terraform for defining and provisioning infrastructure, GitHub and Azure DevOps for source control and CI/CD pipelines, Azure CLI for managing Azure resources, and PowerShell for scripting and automation tasks. This combination allows me to efficiently manage infrastructure changes and deployments, typically on a day-to-day basis, ensuring our cloud environments are both agile and consistent.
-
-- **Client Engagement**:  In addition to my core responsibilities as a Cloud Engineer, I am also a key member of the "dream team" assigned to one of our major clients, where I play a pivotal role in overseeing their production environment. This position allows me to directly apply my customer service skills and technical expertise to address the client's specific cloud requirements, challenges, and service disruptions. This client-facing role complements my technical responsibilities as a Cloud Engineer, allowing me to directly contribute to customer satisfaction and service excellence, while also deepening my understanding of real-world cloud application and management in a production setting.
-
-This enhanced role has allowed me to take a more strategic approach to cloud infrastructure, focusing on scalability, security, and efficiency, and ensuring that our cloud environments are robust, secure, and aligned with organizational goals.
+- Implemented Infrastructure as Code (IaC) using Terraform to define and provision cloud infrastructure, ensuring efficient and consistent deployments.
+- Streamlined CI/CD pipelines with Azure DevOps and GitHub, optimizing workflows for automated testing, infrastructure updates, and deployments.
+- Utilized Git for version control, ensuring traceable and reliable code management across cloud projects.
+- Automated resource provisioning, configuration management, and updates using Azure CLI and PowerShell scripts.
+- Integrated Azure DevOps pipelines to deploy Terraform code, reducing manual intervention and enhancing environment consistency.
+- Served on a customer dream team, managing their production cloud environment and directly addressing service needs.  
 
 #### Cloud Operations Specialist - August 2022 - October 2023
 
 - Specialize in managing and implementing Azure Virtual Desktop (AVD) environments to ensure efficient and secure remote work solutions for clients.
-
 - Leverage AWS Certified Solutions Architect knowledge to deliver robust cloud-based solutions.
-
-- Regularly update skills and knowledge in line with the latest technologies and trends in the Artificial Intelligence (AI) field, applying this knowledge to innovate within the company's technology stack.
-
 - Facilitate the successful deployment of services and environments across various platforms, including the implementation of Multi-Factor Authentication (MFA) and Azure Active Directory (AD) deployments.
-
 - Handle the administration and management of customer cloud environments, ensuring seamless integration with existing on-premise infrastructure.
-
 - Manage cross-platform endpoint management with Intune, spanning across Windows, MacOS, Android, and iOS platforms.
-
 - Maintain high-level customer service standards through direct interactions with clients, effectively resolving their concerns and inquiries.
 
 ### Jalo IT Oy, IT Specialist - May 2019 - August 2022
 
 - Provided frontline support for local and virtual servers using Azure AD, Azure VMs, and Azure Blob Storage.
-
 - Developed frontend web solutions for various client environments, leading to an increase in client satisfaction.
-
 - Conducted corporate and educational training on Microsoft 365 maintenance.
-
 - Managed hardware lifecycle, from procurement to decommissioning.
 
 ### Rahtikeskus Oy, ICT Support and Marketing Assistant - April 2013 - April 2019
 
 - Administered IT support, handled device management, procurement, and documentation for the company's internal operations.
-
 - Took charge of in-house website development projects, resulting in improved online presence and user engagement.
-
 - Leveraged graphic design skills for the development and marketing of the company's services, thereby enhancing brand recognition and influence in the market.
 
 ### Asappi Oy, Billing and Dispatching Associate - April 2011 - June 2012
@@ -140,7 +122,6 @@ This enhanced role has allowed me to take a more strategic approach to cloud inf
 ### PSI Practical Software Innovations, Media Assistant - May 2008 - December 2010
 
 - Performed software testing and planning, and contributed to product development.
-
 - Managed website projects and maintained CentOS Linux LAMP server.
 
 ## Education  

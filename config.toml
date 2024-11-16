@@ -5,12 +5,8 @@ favicon = true
 
 [menu]
   [[menu.header]]
-    name = "portfolio"
-    weight = 0
-    url = "portfiolio"
-  [[menu.header]]
     name = "about"
-    weight = 1
+    weight = 0
     url = "about"
 
 [params]
@@ -18,8 +14,8 @@ user = "iiro"
 hostname = "puro.la"
   [params.author]
     name = "Iiro Purola"  # Website and RSS feed author
-    description = "a Cloud engineer at Cloud2 Oy."
-    freetext = "I thrive in the cloud computing landscape, driven by a deep passion for innovative cloud technologies and solutions."
+    description = "a Infrastructure Engineer at Cloud1 Oy."
+    freetext = "Creating solid foundations, unlocking data’s potential. Driven by growth, fueled by curiosity."
     email = "email@example.com"  # RSS feed email address
 
 
