@@ -75,7 +75,7 @@ My career showcases a blend of technical support, server management, and web dev
 
 ## Work Experience
 
-### Cloud1 Oy, Infrastructure Engineer • November 2024 - Present
+### [Norrin Oy](https://norrin.com), Infrastructure Engineer • November 2024 - Present
 
 - Design, implement, and optimize Azure cloud infrastructure solutions, focusing on automation, security, and governance.
 - Develop and maintain scalable network architectures, management frameworks, and monitoring solutions within Azure environments.
